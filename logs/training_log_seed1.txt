@@ -1,0 +1,34 @@
+﻿Episode   20 | avg reward (last 100)  -194.25 | avg loss (last 1000 updates)  100.274 | epsilon 0.905
+Episode   40 | avg reward (last 100)  -194.58 | avg loss (last 1000 updates)   86.128 | epsilon 0.818
+Episode   60 | avg reward (last 100)  -187.04 | avg loss (last 1000 updates)   67.960 | epsilon 0.740
+Episode   80 | avg reward (last 100)  -169.27 | avg loss (last 1000 updates)   49.276 | epsilon 0.670
+Episode  100 | avg reward (last 100)  -156.10 | avg loss (last 1000 updates)   41.893 | epsilon 0.606
+Episode  120 | avg reward (last 100)  -134.72 | avg loss (last 1000 updates)   53.238 | epsilon 0.548
+Episode  140 | avg reward (last 100)  -101.68 | avg loss (last 1000 updates)   67.731 | epsilon 0.496
+Episode  160 | avg reward (last 100)   -79.27 | avg loss (last 1000 updates)   92.404 | epsilon 0.448
+Episode  180 | avg reward (last 100)   -67.09 | avg loss (last 1000 updates)   91.253 | epsilon 0.406
+Episode  200 | avg reward (last 100)   -48.51 | avg loss (last 1000 updates)   94.902 | epsilon 0.367
+Episode  220 | avg reward (last 100)   -28.30 | avg loss (last 1000 updates)   89.960 | epsilon 0.332
+Episode  240 | avg reward (last 100)   -18.24 | avg loss (last 1000 updates)  109.718 | epsilon 0.300
+Episode  260 | avg reward (last 100)    -4.54 | avg loss (last 1000 updates)  116.741 | epsilon 0.272
+Episode  280 | avg reward (last 100)    10.73 | avg loss (last 1000 updates)   13.264 | epsilon 0.246
+Episode  300 | avg reward (last 100)    24.59 | avg loss (last 1000 updates)    8.360 | epsilon 0.222
+Episode  320 | avg reward (last 100)    46.52 | avg loss (last 1000 updates)    5.754 | epsilon 0.201
+Episode  340 | avg reward (last 100)    73.37 | avg loss (last 1000 updates)    7.131 | epsilon 0.182
+Episode  360 | avg reward (last 100)   105.65 | avg loss (last 1000 updates)    5.782 | epsilon 0.165
+Episode  380 | avg reward (last 100)   141.13 | avg loss (last 1000 updates)    6.016 | epsilon 0.149
+Episode  400 | avg reward (last 100)   168.41 | avg loss (last 1000 updates)    9.104 | epsilon 0.135
+Episode  420 | avg reward (last 100)   180.10 | avg loss (last 1000 updates)    8.624 | epsilon 0.122
+Episode  440 | avg reward (last 100)   186.77 | avg loss (last 1000 updates)    9.168 | epsilon 0.110
+Episode  460 | avg reward (last 100)   192.95 | avg loss (last 1000 updates)   12.272 | epsilon 0.100
+Episode  480 | avg reward (last 100)   197.56 | avg loss (last 1000 updates)   12.050 | epsilon 0.090
+Episode  500 | avg reward (last 100)   203.79 | avg loss (last 1000 updates)   11.880 | epsilon 0.082
+Episode  520 | avg reward (last 100)   214.88 | avg loss (last 1000 updates)   11.685 | epsilon 0.074
+Episode  540 | avg reward (last 100)   225.41 | avg loss (last 1000 updates)   11.968 | epsilon 0.067
+Episode  560 | avg reward (last 100)   235.08 | avg loss (last 1000 updates)   12.482 | epsilon 0.060
+Episode  580 | avg reward (last 100)   237.42 | avg loss (last 1000 updates)   15.188 | epsilon 0.055
+Episode  600 | avg reward (last 100)   241.10 | avg loss (last 1000 updates)   14.923 | epsilon 0.049
+Final loss (mean of last 1000 updates): 14.9231
+Final loss (last update):              1.2556
+Test over 100 games: mean 228.45, std 62.45, landed (>=200): 85%
+Saved figure to dqn_lunarlander_results.png
